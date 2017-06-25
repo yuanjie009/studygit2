@@ -5,6 +5,7 @@ public class Hello{
   
   class aa{
   }
+
+   class as{
 }
-class as{
 }
