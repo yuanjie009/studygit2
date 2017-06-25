@@ -16,4 +16,4 @@ public class Hello{
 master 00000000000000000003
 dev 000111
 bug 0000000000
-  bug origin1111
+bug origin 11111111
